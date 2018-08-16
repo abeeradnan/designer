@@ -1,0 +1,10 @@
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\bin\Debug\WindowsFormsApplication80.exe.config
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\bin\Debug\WindowsFormsApplication80.exe
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\bin\Debug\WindowsFormsApplication80.pdb
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.Form1.resources
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.Form2.resources
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.Properties.Resources.resources
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.csproj.GenerateResource.Cache
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.exe
+c:\users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.pdb
+C:\Users\w\documents\visual studio 2013\Projects\WindowsFormsApplication80\WindowsFormsApplication80\obj\Debug\WindowsFormsApplication80.csprojResolveAssemblyReference.cache
